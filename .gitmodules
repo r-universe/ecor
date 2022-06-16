@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "geotopbricks"]
+	path = geotopbricks
+	url = https://github.com/ecor/geotopbricks
+	shallow = true
+	registered = true
+[submodule "RGENERATE"]
+	path = RGENERATE
+	url = https://github.com/ecor/rgenerate
+	shallow = true
+	registered = true
+[submodule "RGENERATEPREC"]
+	path = RGENERATEPREC
+	url = https://github.com/ecor/rgenerateprec
+	shallow = true
+	registered = true
+[submodule "RMAWGEN"]
+	path = RMAWGEN
+	url = https://github.com/ecor/rmawgen
+	shallow = true
+	registered = true
+[submodule "soilwater"]
+	path = soilwater
+	url = https://github.com/ecor/soilwater
+	shallow = true
+	registered = true

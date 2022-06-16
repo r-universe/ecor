@@ -1,0 +1,22 @@
+[
+  {
+    "package": "geotopbricks",
+    "oncran": true
+  },
+  {
+    "package": "RGENERATE",
+    "oncran": true
+  },
+  {
+    "package": "RGENERATEPREC",
+    "oncran": true
+  },
+  {
+    "package": "RMAWGEN",
+    "oncran": true
+  },
+  {
+    "package": "soilwater",
+    "oncran": true
+  }
+]
