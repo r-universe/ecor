@@ -1,6 +1,18 @@
 [
   {
+    "package": "blockmatrix",
+    "oncran": true
+  },
+  {
     "package": "geotopbricks",
+    "oncran": true
+  },
+  {
+    "package": "lmomPi",
+    "oncran": true
+  },
+  {
+    "package": "rasterList",
     "oncran": true
   },
   {

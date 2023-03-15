@@ -3,9 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "blockmatrix"]
+	path = blockmatrix
+	url = https://github.com/ecor/blockmatrix
+	shallow = true
+	registered = true
 [submodule "geotopbricks"]
 	path = geotopbricks
 	url = https://github.com/ecor/geotopbricks
+	shallow = true
+	registered = true
+[submodule "lmomPi"]
+	path = lmomPi
+	url = https://github.com/ecor/lmompi
+	shallow = true
+	registered = true
+[submodule "rasterList"]
+	path = rasterList
+	url = https://github.com/ecor/rasterlist
 	shallow = true
 	registered = true
 [submodule "RGENERATE"]
