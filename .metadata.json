@@ -1,6 +1,6 @@
 [
   {
-    "package": "RMAWGEN",
+    "package": "geotopbricks",
     "oncran": true
   },
   {
@@ -12,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "soilwater",
+    "package": "RMAWGEN",
     "oncran": true
   },
   {
-    "package": "geotopbricks",
+    "package": "soilwater",
     "oncran": true
   }
 ]
