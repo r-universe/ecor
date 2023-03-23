@@ -8,6 +8,11 @@
 	url = https://github.com/ecor/blockmatrix
 	shallow = true
 	registered = true
+[submodule "boussinesq"]
+	path = boussinesq
+	url = https://github.com/cran/boussinesq
+	shallow = true
+	registered = true
 [submodule "geotopbricks"]
 	path = geotopbricks
 	url = https://github.com/ecor/geotopbricks
