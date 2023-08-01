@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RGENERATE"]
+	path = RGENERATE
+	url = https://github.com/ecor/rgenerate
+[submodule "RGENERATEPREC"]
+	path = RGENERATEPREC
+	url = https://github.com/ecor/rgenerateprec
+[submodule "RMAWGEN"]
+	path = RMAWGEN
+	url = https://github.com/ecor/rmawgen
 [submodule "blockmatrix"]
 	path = blockmatrix
 	url = https://github.com/ecor/blockmatrix
@@ -17,15 +26,6 @@
 [submodule "rasterList"]
 	path = rasterList
 	url = https://github.com/ecor/rasterlist
-[submodule "RGENERATE"]
-	path = RGENERATE
-	url = https://github.com/ecor/rgenerate
-[submodule "RGENERATEPREC"]
-	path = RGENERATEPREC
-	url = https://github.com/ecor/rgenerateprec
-[submodule "RMAWGEN"]
-	path = RMAWGEN
-	url = https://github.com/ecor/rmawgen
 [submodule "soilwater"]
 	path = soilwater
 	url = https://github.com/ecor/soilwater
