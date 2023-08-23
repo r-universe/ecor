@@ -16,7 +16,7 @@
 	url = https://github.com/ecor/blockmatrix
 [submodule "boussinesq"]
 	path = boussinesq
-	url = https://github.com/cran/boussinesq
+	url = https://github.com/ecor/boussinesq
 [submodule "geotopbricks"]
 	path = geotopbricks
 	url = https://github.com/ecor/geotopbricks
